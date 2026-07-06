@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "synced_at": "2026-07-06T10:28:10.510Z",
+  "source": "https://nav.tmlgbd.cc.cd/api/links",
+  "items": [
+    {
+      "title": "CF 账号用量",
+      "url": "https://usage.tmlgbd.cc.cd/",
+      "desc": "Cloudflare Workers 账号用量面板",
+      "icon": "📊",
+      "group": "Cloudflare",
+      "order": 10
+    },
+    {
+      "title": "R2 图床网盘",
+      "url": "https://img.tmlgbd.cc.cd/",
+      "desc": "CloudFlare ImgBed：基于 R2 的图床/文件床/网盘",
+      "icon": "🗂️",
+      "group": "Cloudflare",
+      "order": 1781507160264
+    },
+    {
+      "title": "Edge 管理后台",
+      "url": "https://edge.cffds.cc.cd/admin",
+      "desc": "cffds EdgeTunnel 管理入口（Auth SSO）",
+      "icon": "🛡️",
+      "group": "Cloudflare",
+      "order": 1781527675359
+    },
+    {
+      "title": "OpenAI Key 测试器",
+      "url": "https://keytest.tmlgbd.cc.cd",
+      "desc": "OpenAI 兼容 Key / Base URL 本地缓存与聊天可用性测试，支持自动 CF 中转",
+      "icon": "🔑",
+      "group": "中转站 / API",
+      "order": 1783332355426
+    }
+  ]
+}
